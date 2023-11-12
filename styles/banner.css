@@ -44,6 +44,12 @@
     margin: 1em 0;
     font-style: italic;
 }
+.banner__formula1{
+        font-size: 1em;
+        font-weight: 500;
+        margin: 1em 0;
+}
+
 .tabela{
     display: inline-flex;
     margin: 0.25em;
